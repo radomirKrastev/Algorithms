@@ -5,11 +5,13 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{D7323895-1AD8-494E-AEDB-9832AAA13318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{DC934F79-83CF-419B-BC87-DE409B2B459F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{DC934F79-83CF-419B-BC87-DE409B2B459F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveDrawing", "RecursiveDrawing\RecursiveDrawing.csproj", "{983853B4-1497-4C6E-8231-7B79F58DDBC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveDrawing", "RecursiveDrawing\RecursiveDrawing.csproj", "{983853B4-1497-4C6E-8231-7B79F58DDBC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingVectors", "GeneratingVectors\GeneratingVectors.csproj", "{D4717BEA-F72A-4D4C-94A7-E0244ECB5E6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingVectors", "GeneratingVectors\GeneratingVectors.csproj", "{D4717BEA-F72A-4D4C-94A7-E0244ECB5E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingCombinations", "GeneratingCombinations\GeneratingCombinations.csproj", "{C3CFCA0F-2BB0-43F5-93E9-EF2199451356}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D4717BEA-F72A-4D4C-94A7-E0244ECB5E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4717BEA-F72A-4D4C-94A7-E0244ECB5E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4717BEA-F72A-4D4C-94A7-E0244ECB5E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CFCA0F-2BB0-43F5-93E9-EF2199451356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CFCA0F-2BB0-43F5-93E9-EF2199451356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CFCA0F-2BB0-43F5-93E9-EF2199451356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CFCA0F-2BB0-43F5-93E9-EF2199451356}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
