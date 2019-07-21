@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueens", "EightQueens\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRolls", "DiceRolls\DiceRolls.csproj", "{56382B0B-A1DF-4E92-AFE8-C5F9BAA8E7C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollsExactSum", "DiceRollsExactSum\DiceRollsExactSum.csproj", "{880D92FC-7587-43C2-8864-0B3774DE9C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubLists", "SubLists\SubLists.csproj", "{27FC9DAB-D083-4AE6-8900-1784AD20750A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{56382B0B-A1DF-4E92-AFE8-C5F9BAA8E7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56382B0B-A1DF-4E92-AFE8-C5F9BAA8E7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56382B0B-A1DF-4E92-AFE8-C5F9BAA8E7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880D92FC-7587-43C2-8864-0B3774DE9C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880D92FC-7587-43C2-8864-0B3774DE9C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880D92FC-7587-43C2-8864-0B3774DE9C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880D92FC-7587-43C2-8864-0B3774DE9C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FC9DAB-D083-4AE6-8900-1784AD20750A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FC9DAB-D083-4AE6-8900-1784AD20750A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FC9DAB-D083-4AE6-8900-1784AD20750A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FC9DAB-D083-4AE6-8900-1784AD20750A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
