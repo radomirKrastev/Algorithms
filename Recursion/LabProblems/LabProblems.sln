@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingVectors", "Genera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratingCombinations", "GeneratingCombinations\GeneratingCombinations.csproj", "{C3CFCA0F-2BB0-43F5-93E9-EF2199451356}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueens", "EightQueens\EightQueens.csproj", "{ECB41142-0BA7-47B8-B410-EDFC9D94C42C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EightQueens", "EightQueens\EightQueens.csproj", "{ECB41142-0BA7-47B8-B410-EDFC9D94C42C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRolls", "DiceRolls\DiceRolls.csproj", "{56382B0B-A1DF-4E92-AFE8-C5F9BAA8E7C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceRolls", "DiceRolls\DiceRolls.csproj", "{56382B0B-A1DF-4E92-AFE8-C5F9BAA8E7C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollsExactSum", "DiceRollsExactSum\DiceRollsExactSum.csproj", "{880D92FC-7587-43C2-8864-0B3774DE9C18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceRollsExactSum", "DiceRollsExactSum\DiceRollsExactSum.csproj", "{880D92FC-7587-43C2-8864-0B3774DE9C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubLists", "SubLists\SubLists.csproj", "{27FC9DAB-D083-4AE6-8900-1784AD20750A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubLists", "SubLists\SubLists.csproj", "{27FC9DAB-D083-4AE6-8900-1784AD20750A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labyrinth", "Labyrinth\Labyrinth.csproj", "{6E0D547A-6063-405B-B9AE-ED8A7D499A3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{27FC9DAB-D083-4AE6-8900-1784AD20750A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27FC9DAB-D083-4AE6-8900-1784AD20750A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27FC9DAB-D083-4AE6-8900-1784AD20750A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0D547A-6063-405B-B9AE-ED8A7D499A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0D547A-6063-405B-B9AE-ED8A7D499A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0D547A-6063-405B-B9AE-ED8A7D499A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0D547A-6063-405B-B9AE-ED8A7D499A3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
