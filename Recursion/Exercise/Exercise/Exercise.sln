@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "ReverseArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiTower", "HanoiTower\HanoiTower.csproj", "{D91D71E5-48D2-4ECC-A477-3BAFDADB426C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetitions", "CombinationsWithoutRepetitions\CombinationsWithoutRepetitions.csproj", "{F92D00F2-C055-4DF8-BD68-29B26A651D5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D91D71E5-48D2-4ECC-A477-3BAFDADB426C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D91D71E5-48D2-4ECC-A477-3BAFDADB426C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D91D71E5-48D2-4ECC-A477-3BAFDADB426C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92D00F2-C055-4DF8-BD68-29B26A651D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92D00F2-C055-4DF8-BD68-29B26A651D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92D00F2-C055-4DF8-BD68-29B26A651D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92D00F2-C055-4DF8-BD68-29B26A651D5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
