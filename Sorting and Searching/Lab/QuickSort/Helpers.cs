@@ -14,5 +14,16 @@
             arr[firstIndex] = arr[secondIndex];
             arr[secondIndex] = temp;
         }
+
+        public static void Shuffle <T>(T[] arr)
+        {
+            Random random = new Random();
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                int randonIndex = random.Next(i + 1, arr.Length);
+                Swap(arr, i, randonIndex);
+            }
+        }
     }
 }

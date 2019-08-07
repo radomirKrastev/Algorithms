@@ -6,7 +6,7 @@ namespace QuickSort
     {
         public static void Sort(T[] arr)
         {
-
+            Helpers.Shuffle(arr);
             Sort(arr, 0, arr.Length - 1);
         }
 
