@@ -1,7 +1,6 @@
 ﻿namespace BinarySearch
 {
     using System;
-    using QuickSort;
     using System.Linq;
     public class Program
     {
@@ -9,7 +8,6 @@
         {
             var arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
             var key = int.Parse(Console.ReadLine());
-
             var index = BinarySearchAlgo.FindIndex(arr, key, 0, arr.Length - 1);
             Console.WriteLine(index);
         }

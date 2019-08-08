@@ -1,7 +1,6 @@
 ﻿namespace BinarySearch
 {
-    using System;
-    public class BinarySearchAlgo //<T> where T : IComparable
+    public class BinarySearchAlgo
     {
         public static int FindIndex(int[] arr, int key, int start, int end)
         {

@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MergeSort\MergeSort.csproj" />
     <ProjectReference Include="..\QuickSort\QuickSort.csproj" />
   </ItemGroup>
 
