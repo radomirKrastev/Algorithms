@@ -19,7 +19,7 @@
         {
             Random random = new Random();
 
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length-1; i++)
             {
                 int randonIndex = random.Next(i + 1, arr.Length);
                 Swap(arr, i, randonIndex);
