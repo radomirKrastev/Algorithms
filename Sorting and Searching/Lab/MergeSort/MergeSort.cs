@@ -37,6 +37,8 @@ namespace MergeSort
                 aux[index] = arr[index];
             }
 
+            Console.WriteLine(string.Join(" ", aux));
+
             int i = lo;
             int j = mid + 1;
 
@@ -61,6 +63,8 @@ namespace MergeSort
                 {
                     arr[k] = aux[j++];
                 }
+
+                Console.WriteLine(string.Join(" ",arr));
             }
         }
     }
